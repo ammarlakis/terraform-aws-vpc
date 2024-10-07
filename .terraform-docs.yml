@@ -1,0 +1,14 @@
+formatter: "markdown"
+
+content: |-
+  # Terraform AWS VPC module
+
+  {{ .Requirements }}
+
+  {{ .Providers }}
+
+  {{ .Resources }}
+
+  {{ .Inputs }}
+
+  {{ .Outputs }}
